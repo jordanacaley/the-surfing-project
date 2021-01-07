@@ -6,6 +6,10 @@
   background-size: cover;
 }
 
+#tagline {
+  font-size: 1.6rem;
+}
+
 #my-footer {
   font-size: 14px;
 }
